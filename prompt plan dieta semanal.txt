@@ -1,0 +1,9 @@
+actualizar la parte del código que genera el plan nutricional, en vez de que genere 
+para un solo día, generar para cada día de la semana: lunes, martes, miércoles, 
+jueves, viernes, sábado, domingo. Además permitrir que se pueda descargar en un 
+archivo PDF.
+
+Tanbién agregar un botón ... Descargar PDF  .. para que genere un archivo real llamado plan-nutricional-semanal.pdf y dispare la descarga directamente, sin abrir ventana de impresión.
+
+
+
