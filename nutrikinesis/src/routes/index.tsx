@@ -11,9 +11,9 @@ export const Route = createFileRoute('/')({
 type Tab = 'calories' | 'exercise' | 'nutrition'
 
 const tabs: { id: Tab; label: string; desc: string }[] = [
-  { id: 'calories', label: 'Calorías', desc: 'Calculadora' },
+  { id: 'calories', label: 'Calorias', desc: 'Calculadora' },
   { id: 'exercise', label: 'Ejercicios', desc: 'Monitor IA' },
-  { id: 'nutrition', label: 'Nutrición', desc: 'Plan diario' },
+  { id: 'nutrition', label: 'Nutricion', desc: 'Plan semanal' },
 ]
 
 function Home() {
